@@ -1,0 +1,12 @@
+[
+  {
+    "titulo": "Biometria Facial",
+    "status": "Ativo",
+    "orientacao": "Aguardar 10 minutos e tentar novamente."
+  },
+  {
+    "titulo": "Carta de Cancelamento",
+    "status": "Ativo",
+    "orientacao": "Orientar utilização do Site Cielo."
+  }
+]
