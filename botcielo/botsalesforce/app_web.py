@@ -21,7 +21,7 @@ from equipamentos import (
 
 st.set_page_config(
     page_title="Cibot",
-    page_icon="assets/logobotcielotr.png",
+    page_icon="logobotcielotr.png",
     layout="centered"
 )
 # ==================================
@@ -158,7 +158,7 @@ Assistente Interativo
 """, unsafe_allow_html=True)
 
 st.image(
-    "assets/logobotcielo.png",
+    "logobotcielo.png",
     width=180
 )
 
